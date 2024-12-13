@@ -72,5 +72,16 @@ Un taller de reparación de motos donde varios mecánicos trabajan simultáneame
 | **Sistema Operativo**        | Desarrollado y probado en Windows 10 y Linux (Ubuntu 20.04) |
 
 ## Ejemplos o Pantallazos de una Ejecución Exitosa
-
 ### Ejemplo de Salida
+
+Mecánico 1 ha comenzado a trabajar en tarea 0.
+Mecánico 2 ha comenzado a trabajar en tarea 1.
+Mecánico 1 ha terminado la tarea 0.
+Mecánico 3 ha comenzado a trabajar en tarea 2.
+...
+Todos los mecánicos han terminado sus tareas.
+
+
+### Conclusión
+
+Este documento proporciona una descripción completa del programa de simulación del taller de reparación de motos, incluyendo los problemas de concurrencia, mecanismos de sincronización, lógica de negocio, y detalles de entorno de desarrollo.
